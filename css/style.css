@@ -54,7 +54,7 @@ h2 {
   
   /*位置・配置*/
   transform: rotate(-17.5deg); /*与えられた要素を回転、拡大縮小、傾斜、移動*/
-  position: absolute;
+  position: sticky;
   vertical-align: middle;
   
   /*コンテンツ外側の大きさ*/
