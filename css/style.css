@@ -331,18 +331,18 @@ p{
 
 table{
   background: #cdefff;
-  border-collapse:  collapse;/* セルの線を重ねる */
-  width:  100%;
+  border-collapse: collapse;/* セルの線を重ねる */
+  width: 100% !important;;
   table-layout: fixed;
 }
 
 th{
   background:#00e2cf;
-  border: solid 1px;
+  border: solid 1px !important;;
 }
 
 td{
-  border: solid 1px;
+  border: solid 1px !important;;
 }
 
 pre {
