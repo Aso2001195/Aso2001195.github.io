@@ -330,7 +330,6 @@ p{
 }
 
 table{
-  background: #cdefff;
   border-collapse: collapse;/* セルの線を重ねる */
   width: 100% !important;;
   table-layout: fixed;
@@ -342,6 +341,7 @@ th{
 }
 
 td{
+  background: #cdefff;
   border: solid 1px !important;;
 }
 
