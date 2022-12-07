@@ -33,6 +33,6 @@ Ol 番号付きリスト
     1. 番号付きリスト1-2
 
 
-```java:qiita.java
+```java
 System.out.println('コードブロック');
 ```
