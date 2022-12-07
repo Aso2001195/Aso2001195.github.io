@@ -345,6 +345,10 @@ td{
   border: solid 1px !important;;
 }
 
+tr:nth-of-type(2n-1) td{
+  background: #c0e0fc;
+}
+
 pre {
   background-color: #33363a !important;
   border-radius: 0 !important;
