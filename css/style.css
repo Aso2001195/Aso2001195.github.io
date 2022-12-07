@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-    /*文字枠の大きさ*/
+  /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
   min-width: fit-content;
@@ -103,7 +103,7 @@ h2 {
 }
 
 h3 {
-    /*文字枠の大きさ*/
+  /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
   min-width: fit-content;
@@ -146,7 +146,7 @@ h3 {
 }
 
 h4{
-    /*文字枠の大きさ*/
+  /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
   min-width: fit-content;
@@ -189,7 +189,7 @@ h4{
 }
 
 h5{
-    /*文字枠の大きさ*/
+  /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
   min-width: fit-content;
@@ -232,7 +232,50 @@ h5{
 }
 
 h6{
-    /*文字枠の大きさ*/
+  /*文字枠の大きさ*/
+  width: 418px;
+  height: fit-content;
+  min-width: fit-content;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  
+  /*文字*/
+  font-family: 'Itim';
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 120px !important;
+  color: #d0b458 !important; /*文字色*/
+  padding: 60px 10px; /*文字周りの余白*/
+  line-height: 144px !important; /*行高*/
+  letter-spacing: 0.26em; /*文字の間隔*/
+  text-indent: 15px;/*字下げ*/
+  text-decoration-line: line-through;/*文字列の線の設定*/
+  text-transform: lowercase;/*文字の形式*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  
+  /*枠線・要素*/
+  border-top: solid 4px #d0b458 !important;
+  border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 80px 7px 10px 90px;
+  
+  /*コンテンツ外側の大きさ*/
+  margin-top: 1em !important;
+  margin-right: 1em !important;
+  margin-bottom: 1em !important;
+  margin-left: 1em !important;
+  
+  background: #421615; /*背景色*/
+  
+  /*位置・配置*/
+  position: sticky;　/*固定で*/
+}
+
+p{
+  /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
   min-width: fit-content;
