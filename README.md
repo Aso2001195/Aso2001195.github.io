@@ -34,5 +34,12 @@ Ol 番号付きリスト
 
 
 ```java
-System.out.println('コードブロック');
+import java.util.Optional;
+
+@RequestMapping("/Pokemon")
+private static String function(Integr x){
+    Optional<User> user=service.passwordCheck(form.getEmail());
+    System.out.println('コードブロック');
+    return x;
+}
 ```
