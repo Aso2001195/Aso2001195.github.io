@@ -29,34 +29,34 @@ h1 {
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
-  color: #d0b458 !important; /*文字色*/
+  color: #d0b458 !important;/*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
   text-transform: lowercase;/*文字の形式*/
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);/*文字の影*/
   
   /*枠線・要素*/
   border-top: solid 4px #d0b458 !important;/*上*/
-  border-right: solid 4px #d0b458 !important;　/*右*/
-  border-bottom: solid 4px #d0b458 !important;　/*下*/
-  border-left: solid 4px #d0b458 !important;　/*左*/
+  border-right: solid 4px #d0b458 !important;/*右*/
+  border-bottom: solid 4px #d0b458 !important;/*下*/
+  border-left: solid 4px #d0b458 !important;/*左*/
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em !important;　/*上*/
-  margin-right: 1em !important;　/*右*/
-  margin-bottom: 1em !important;　/*左*/
-  margin-left: 1em !important;　/*下*/
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
   
-  background: #421615; /*背景色*/
+  background: #421615;/*背景色*/
   
   /*位置・配置*/
-  position: sticky;　/*固定で*/
+  position: sticky;/*固定で*/
 }
 
 h2 {
