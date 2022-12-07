@@ -22,7 +22,7 @@ h1 {
   height: fit-content;
   min-width: fit-content;
   max-width: 100%;
-  overflow-wrap: normal;
+  overflow-wrap: anywhere;
   
   /*文字*/
   font-family: 'Itim';
@@ -60,10 +60,12 @@ h1 {
 }
 
 h2 {
-  /*文字枠の大きさ*/
-  min-width: fit-content;
+    /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
+  min-width: fit-content;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   
   /*文字*/
   font-family: 'Itim';
@@ -101,10 +103,12 @@ h2 {
 }
 
 h3 {
-  /*文字枠の大きさ*/
-  min-width: fit-content;
+    /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
+  min-width: fit-content;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   
   /*文字*/
   font-family: 'Itim';
@@ -142,10 +146,12 @@ h3 {
 }
 
 h4{
-  /*文字枠の大きさ*/
-  min-width: fit-content;
+    /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
+  min-width: fit-content;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   
   /*文字*/
   font-family: 'Itim';
@@ -183,10 +189,12 @@ h4{
 }
 
 h5{
-  /*文字枠の大きさ*/
-  min-width: fit-content;
+    /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
+  min-width: fit-content;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   
   /*文字*/
   font-family: 'Itim';
@@ -224,10 +232,12 @@ h5{
 }
 
 h6{
-  /*文字枠の大きさ*/
-  min-width: fit-content;
+    /*文字枠の大きさ*/
   width: 418px;
   height: fit-content;
+  min-width: fit-content;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   
   /*文字*/
   font-family: 'Itim';
