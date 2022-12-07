@@ -36,7 +36,6 @@ h1 {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線*/
-  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -74,7 +73,6 @@ h2 {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線*/
-  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -112,7 +110,6 @@ h3 {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線*/
-  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -150,7 +147,6 @@ h4{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線*/
-  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -188,7 +184,6 @@ h5{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線*/
-  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -226,7 +221,6 @@ h6{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線*/
-  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
