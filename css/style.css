@@ -7,11 +7,16 @@ a {
   text-decoration: none;
   color: inherit;
   width: 240px;
-	height: 100px;
-	background-color: #fffdc5;
+　max-width: 100%;
+　height: 100px;
+　background-color: #fffdc5;
   text-align: center; /*--左右中央--*/
-	line-height: 100px; /*--上下中央--*/
+　line-height: 100px; /*--上下中央--*/
   display: block;
+}
+
+a:visited{
+  color: cyan;
 }
 
 a:link{
@@ -20,10 +25,6 @@ a:link{
 
 a:hover {
   color: red;
-}
-
-a:visited{
-  color: cyan;
 }
 
 a:focus {
