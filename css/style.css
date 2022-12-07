@@ -57,7 +57,7 @@ h2 {
   position: absolute;
   vertical-align: middle;
   
-  /*コンテンツの大きさ*/
+  /*コンテンツ外側の大きさ*/
   margin-top: 1em;
   margin-bottom: 1em;
   
