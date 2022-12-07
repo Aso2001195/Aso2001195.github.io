@@ -238,8 +238,8 @@ h6{
   position: sticky;　/*固定で*/
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
 }
