@@ -316,6 +316,14 @@ p{
   position: sticky;　/*固定で*/
 }
 
+p.pilcrow {
+   text-indent: 0;
+   display: inline;
+}
+p.pilcrow + p.pilcrow::before {
+  content: " ¶ ";
+}
+
 pre {
   background-color: #33363a !important;
   border-radius: 0 !important;
