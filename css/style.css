@@ -285,7 +285,7 @@ p{
   font-family: 'Itim';
   font-style: normal;
   font-weight: 400 !important;
-  font-size: 120px !important;
+  font-size:max(2.3vw,18px);
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
