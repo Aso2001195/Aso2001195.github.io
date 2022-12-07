@@ -235,7 +235,7 @@ h6{
   background: #421615; /*背景色*/
   
   /*位置・配置*/
-  position: 'sticky';　/*固定で*/
+  position: sticky;　/*固定で*/
 }
 
 pre {
