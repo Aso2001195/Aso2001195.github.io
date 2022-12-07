@@ -9,5 +9,4 @@
 
 これはPタグです<br>　brで改行されました
 
-[aタグ][1]
-[1]:https://aso2001195.github.io/
+[aタグ](https://aso2001195.github.io/)
