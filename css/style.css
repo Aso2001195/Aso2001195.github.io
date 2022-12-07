@@ -27,7 +27,7 @@ h1 {
   font-weight: 400;
   font-size: 120px;
   color: #d0b458; /*文字色*/
-  padding: 0.5rem 1rem; /*文字周りの余白*/
+  padding: 6px 1px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
@@ -65,7 +65,7 @@ h2 {
   font-weight: 400;
   font-size: 120px;
   color: #d0b458; /*文字色*/
-  padding: 0.5rem 1rem; /*文字周りの余白*/
+  padding: 6px 1px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
