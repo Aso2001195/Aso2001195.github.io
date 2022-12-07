@@ -35,7 +35,8 @@ h1 {
   text-transform: lowercase;/*文字の形式*/
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
-  /*枠線*/
+  /*枠線・要素*/
+  display:inline-block;
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -49,8 +50,7 @@ h1 {
   
   background: #421615; /*背景色*/
   
-  /*要素・位置・配置*/
-  display:inline-block;
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -73,7 +73,8 @@ h2 {
   text-transform: lowercase;/*文字の形式*/
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
-  /*枠線*/
+  /*枠線・要素*/
+  display:inline-block;
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -87,8 +88,7 @@ h2 {
   
   background: #421615; /*背景色*/
   
-  /*要素・位置・配置*/
-  display:inline-block;
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -111,7 +111,8 @@ h3 {
   text-transform: lowercase;/*文字の形式*/
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
-  /*枠線*/
+  /*枠線・要素*/
+  display:inline-block;
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -125,8 +126,7 @@ h3 {
   
   background: #421615; /*背景色*/
   
-  /*要素・位置・配置*/
-  display:inline-block;
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -149,7 +149,8 @@ h4{
   text-transform: lowercase;/*文字の形式*/
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
-  /*枠線*/
+  /*枠線・要素*/
+  display:inline-block;
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -163,8 +164,7 @@ h4{
   
   background: #421615; /*背景色*/
   
-  /*要素・位置・配置*/
-  display:inline-block;
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -187,7 +187,8 @@ h5{
   text-transform: lowercase;/*文字の形式*/
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
-  /*枠線*/
+  /*枠線・要素*/
+  display:inline-block;
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -201,8 +202,7 @@ h5{
   
   background: #421615; /*背景色*/
   
-  /*要素・位置・配置*/
-  display:inline-block;
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -225,7 +225,8 @@ h6{
   text-transform: lowercase;/*文字の形式*/
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
-  /*枠線*/
+  /*枠線・要素*/
+  display:inline-block;
   border-top: solid #d0b458;
   border-left: solid #d0b458;
   border-bottom: solid #d0b458 !important;
@@ -239,8 +240,7 @@ h6{
   
   background: #421615; /*背景色*/
   
-  /*要素・位置・配置*/
-  display:inline-block;
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
