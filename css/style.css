@@ -357,9 +357,30 @@ tr:nth-of-type(2n-1) td{
 }
 */
 
+ol{
+  counter-reset: item;
+  list-style-type: none;
+  padding-left: 0;
+}
+
 pre {
   background-color: #33363a !important;
   border-radius: 0 !important;
+}
+
+li{
+  text-indent: -1.3em;
+  padding-left: 1.3em;
+  color: olive;
+}
+
+li:before {
+  counter-increment: item;
+  content: counter(item)'.';
+  /* 以下は自由に装飾... */
+  padding-right: .5em;
+  font-weight: bold;
+  color: #b40000;
 }
 
 .nv {
