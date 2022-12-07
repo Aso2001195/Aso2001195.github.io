@@ -24,8 +24,8 @@ h1 {
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400  !important;
-  font-size: 120px  !important;
+  font-weight: 400px !important;
+  font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
@@ -62,8 +62,8 @@ h2 {
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400  !important;
-  font-size: 120px  !important;
+  font-weight: 400px !important;
+  font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
@@ -100,8 +100,8 @@ h3 {
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400  !important;
-  font-size: 120px  !important;
+  font-weight: 400px !important;
+  font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
@@ -138,8 +138,8 @@ h4{
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400  !important;
-  font-size: 120px  !important;
+  font-weight: 400px !important;
+  font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
@@ -176,8 +176,8 @@ h5{
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400  !important;
-  font-size: 120px  !important;
+  font-weight: 400px !important;
+  font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
@@ -214,8 +214,8 @@ h6{
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400  !important;
-  font-size: 120px  !important;
+  font-weight: 400px !important;
+  font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
