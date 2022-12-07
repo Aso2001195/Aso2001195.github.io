@@ -240,7 +240,7 @@ h6{
   overflow-wrap: anywhere;
   
   /*文字*/
-  font-family: 'Itim';
+  font-family: serif;
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
@@ -314,14 +314,6 @@ p{
   
   /*位置・配置*/
   position: sticky;　/*固定で*/
-}
-
-p.pilcrow {
-   text-indent: 0;
-   display: inline;
-}
-p.pilcrow + p.pilcrow::before {
-  content: " ¶ ";
 }
 
 pre {
