@@ -360,12 +360,11 @@ tr:nth-of-type(2n-1) td{
 ol{
   counter-reset: item;
   list-style-type: none;
-  padding-left: 0;
+  padding-left: !important;
 }
 
-pre {
-  background-color: #33363a !important;
-  border-radius: 0 !important;
+ol.parent{
+  coler:darksalmon;
 }
 
 li{
@@ -381,6 +380,11 @@ li:before {
   padding-right: .5em;
   font-weight: bold;
   color: #b40000;
+}
+
+pre {
+  background-color: #33363a !important;
+  border-radius: 0 !important;
 }
 
 .nv {
