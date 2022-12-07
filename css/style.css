@@ -400,12 +400,10 @@ code{
   display: inline-block !important;
   padding: 0.1em 0.25em !important; /* 文字周りの余白 */
   color: aquamarine; /* 文字色 */
-  border-radius: 3px !important; /* 角丸 */
-  border: solid 1px #d6dde4 !important; /* 枠線 */
 }
 
 .err{
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .nv {
