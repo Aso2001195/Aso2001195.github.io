@@ -17,12 +17,43 @@ a:focus {
 }
 
 h1 {
-  width: 100%;
+  /*文字枠の大きさ*/
+  width: 418px;
+  height: 331px;
+  
+  /*文字*/
+  font-family: 'Itim';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 120px;
   color: #d0b458; /*文字色*/
-  padding: 0.5em 0; /*上下の余白*/
-  border-top: double 3px; /*上線*/
-  border-color: #d0b458;
-  position: sticky;
+  padding: 0.5rem 1rem; /*文字周りの余白*/
+  line-height: 144px; /*行高*/
+  letter-spacing: 0.26em; /*文字の間隔*/
+  text-indent: 15px;/*字下げ*/
+  text-decoration-line: line-through;/*文字列の線の設定*/
+  text-transform: lowercase;/*文字の形式*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  
+  /*枠線*/
+  border-radius: 25px 0px 0px 25px; /*左側の角を丸く*/
+  border-top: solid #d0b458;
+  border-left: solid #d0b458;
+  border-bottom: solid #d0b458 !important;
+  border-right: solid #d0b458 !important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 80px 7px 10px 90px;
+  
+  /*位置・配置*/
+  transform: rotate(-17.5deg); /*与えられた要素を回転、拡大縮小、傾斜、移動*/
+  position: sticky;　/*固定で*/
+  vertical-align: middle;
+  
+  /*コンテンツ外側の大きさ*/
+  margin-top: 1em;
+  margin-bottom: 1em;
+  
+  background: #421615; /*背景色*/
 }
 
 h2 {
@@ -55,7 +86,7 @@ h2 {
   
   /*位置・配置*/
   transform: rotate(-17.5deg); /*与えられた要素を回転、拡大縮小、傾斜、移動*/
-  position: sticky;
+  position: sticky;　/*固定で*/
   vertical-align: middle;
   
   /*コンテンツ外側の大きさ*/
