@@ -392,7 +392,7 @@ li::before {
 }
 
 pre {
-  background-color: #33363a !important;
+  background-color: lavender !important;
   border-radius: 0 !important;
 }
 
@@ -402,6 +402,7 @@ code{
   color: aquamarine; /* 文字色 */
 }
 
+/*
 .err{
   background-color: transparent !important;
 }
@@ -426,6 +427,7 @@ code{
 .s2 {
   color: rgb(222, 153, 84) !important;
 }
+*/
 
 /* 
 
