@@ -369,11 +369,11 @@ li{
   color: olive;
 }
 
-li:marker{
+li::marker{
   coler:darksalmon;
 }
 
-li:before {
+li::before {
   counter-increment: item;
   content: counter(item)'.';
   /* 以下は自由に装飾... */
