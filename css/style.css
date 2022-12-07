@@ -369,7 +369,6 @@ ol{
 
 ul{
   counter-reset: item;
-  list-style-type: none;
   padding-left: 6px !important;
   margin-top: 1em !important;/*上*/
   margin-right: 1em !important;/*右*/
@@ -388,9 +387,6 @@ li::marker{
 }
 
 li::before {
-  counter-increment: item;
-  content: counter(item)'.';
-  /* 以下は自由に装飾... */
   padding-right: .5em;
   font-weight: bold;
   color: #b40000;
