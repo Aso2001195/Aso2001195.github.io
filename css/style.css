@@ -361,12 +361,20 @@ ol{
   counter-reset: item;
   list-style-type: none;
   padding-left: 6px !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
 }
 
-ui{
+ul{
   counter-reset: item;
   list-style-type: none;
   padding-left: 6px !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
 }
 
 li{
