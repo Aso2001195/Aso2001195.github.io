@@ -360,7 +360,7 @@ tr:nth-of-type(2n-1) td{
 ol{
   counter-reset: item;
   list-style-type: none;
-  padding-left: !important;
+  padding-left: 6px !important;
 }
 
 ol.parent{
