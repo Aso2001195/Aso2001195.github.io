@@ -14,15 +14,15 @@ a {
 }
 
 a:visited{
-  color: cyan;
+  color: cyan !important;
 }
 
 a:link{
-  color: blue;
+  color: blue !important;
 }
 
 a:hover {
-  color: red;
+  color: red !important;
 }
 
 a:focus {
