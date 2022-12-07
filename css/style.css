@@ -12,7 +12,6 @@ a {
   background-color: #fffdc5;
   text-align: center;/*--左右中央--*/
   line-height: 100px;/*--上下中央--*/
-  display: block;
 }
 
 a:visited{
