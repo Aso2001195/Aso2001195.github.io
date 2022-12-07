@@ -78,41 +78,41 @@ h2 {
   height: fit-content;
   min-width: fit-content;
   max-width: 100%;
-  overflow-wrap: anywhere;
+  overflow-wrap: anywhere; /*改行*/
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
-  color: #d0b458 !important; /*文字色*/
+  color: #d0b458 !important;/*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
   text-transform: lowercase;/*文字の形式*/
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);/*文字の影*/
   
   /*枠線・要素*/
-  border-top: solid 4px #d0b458 !important;
-  border-right: solid 4px #d0b458 !important;
-  border-bottom: solid 4px #d0b458 !important;
-  border-left: solid 4px #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;/*上*/
+  border-right: solid 4px #d0b458 !important;/*右*/
+  border-bottom: solid 4px #d0b458 !important;/*下*/
+  border-left: solid 4px #d0b458 !important;/*左*/
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 80px 7px 10px 90px;　/* 左上 | 右上 | 右下 | 左下 */
+  border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em !important;
-  margin-right: 1em !important;
-  margin-bottom: 1em !important;
-  margin-left: 1em !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
   
-  background: #421615; /*背景色*/
+  background: #421615;/*背景色*/
   
   /*位置・配置*/
-  position: sticky;　/*固定で*/
+  position: sticky;/*固定で*/
 }
 
 h3 {
@@ -121,41 +121,41 @@ h3 {
   height: fit-content;
   min-width: fit-content;
   max-width: 100%;
-  overflow-wrap: anywhere;
+  overflow-wrap: anywhere; /*改行*/
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
-  color: #d0b458 !important; /*文字色*/
+  color: #d0b458 !important;/*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
   text-transform: lowercase;/*文字の形式*/
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);/*文字の影*/
   
   /*枠線・要素*/
-  border-top: solid 4px #d0b458 !important;
-  border-right: solid 4px #d0b458 !important;
-  border-bottom: solid 4px #d0b458 !important;
-  border-left: solid 4px #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;/*上*/
+  border-right: solid 4px #d0b458 !important;/*右*/
+  border-bottom: solid 4px #d0b458 !important;/*下*/
+  border-left: solid 4px #d0b458 !important;/*左*/
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em !important;
-  margin-right: 1em !important;
-  margin-bottom: 1em !important;
-  margin-left: 1em !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
   
-  background: #421615; /*背景色*/
+  background: #421615;/*背景色*/
   
   /*位置・配置*/
-  position: sticky;　/*固定で*/
+  position: sticky;/*固定で*/
 }
 
 h4{
@@ -164,41 +164,41 @@ h4{
   height: fit-content;
   min-width: fit-content;
   max-width: 100%;
-  overflow-wrap: anywhere;
+  overflow-wrap: anywhere; /*改行*/
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
-  color: #d0b458 !important; /*文字色*/
+  color: #d0b458 !important;/*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
   text-transform: lowercase;/*文字の形式*/
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);/*文字の影*/
   
   /*枠線・要素*/
-  border-top: solid 4px #d0b458 !important;
-  border-right: solid 4px #d0b458 !important;
-  border-bottom: solid 4px #d0b458 !important;
-  border-left: solid 4px #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;/*上*/
+  border-right: solid 4px #d0b458 !important;/*右*/
+  border-bottom: solid 4px #d0b458 !important;/*下*/
+  border-left: solid 4px #d0b458 !important;/*左*/
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em !important;
-  margin-right: 1em !important;
-  margin-bottom: 1em !important;
-  margin-left: 1em !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
   
-  background: #421615; /*背景色*/
+  background: #421615;/*背景色*/
   
   /*位置・配置*/
-  position: sticky;　/*固定で*/
+  position: sticky;/*固定で*/
 }
 
 h5{
@@ -207,41 +207,41 @@ h5{
   height: fit-content;
   min-width: fit-content;
   max-width: 100%;
-  overflow-wrap: anywhere;
+  overflow-wrap: anywhere; /*改行*/
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
-  color: #d0b458 !important; /*文字色*/
+  color: #d0b458 !important;/*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
   text-transform: lowercase;/*文字の形式*/
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);/*文字の影*/
   
   /*枠線・要素*/
-  border-top: solid 4px #d0b458 !important;
-  border-right: solid 4px #d0b458 !important;
-  border-bottom: solid 4px #d0b458 !important;
-  border-left: solid 4px #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;/*上*/
+  border-right: solid 4px #d0b458 !important;/*右*/
+  border-bottom: solid 4px #d0b458 !important;/*下*/
+  border-left: solid 4px #d0b458 !important;/*左*/
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em !important;
-  margin-right: 1em !important;
-  margin-bottom: 1em !important;
-  margin-left: 1em !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
   
-  background: #421615; /*背景色*/
+  background: #421615;/*背景色*/
   
   /*位置・配置*/
-  position: sticky;　/*固定で*/
+  position: sticky;/*固定で*/
 }
 
 h6{
@@ -250,41 +250,41 @@ h6{
   height: fit-content;
   min-width: fit-content;
   max-width: 100%;
-  overflow-wrap: anywhere;
+  overflow-wrap: anywhere; /*改行*/
   
   /*文字*/
-  font-family: serif;
+  font-family: 'Itim';
   font-style: normal;
   font-weight: 400 !important;
   font-size: 120px !important;
-  color: #d0b458 !important; /*文字色*/
+  color: #d0b458 !important;/*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
   text-transform: lowercase;/*文字の形式*/
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);/*文字の影*/
   
   /*枠線・要素*/
-  border-top: solid 4px #d0b458 !important;
-  border-right: solid 4px #d0b458 !important;
-  border-bottom: solid 4px #d0b458 !important;
-  border-left: solid 4px #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;/*上*/
+  border-right: solid 4px #d0b458 !important;/*右*/
+  border-bottom: solid 4px #d0b458 !important;/*下*/
+  border-left: solid 4px #d0b458 !important;/*左*/
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em !important;
-  margin-right: 1em !important;
-  margin-bottom: 1em !important;
-  margin-left: 1em !important;
+  margin-top: 1em !important;/*上*/
+  margin-right: 1em !important;/*右*/
+  margin-bottom: 1em !important;/*左*/
+  margin-left: 1em !important;/*下*/
   
-  background: #421615; /*背景色*/
+  background: #421615;/*背景色*/
   
   /*位置・配置*/
-  position: sticky;　/*固定で*/
+  position: sticky;/*固定で*/
 }
 
 p{
@@ -327,6 +327,14 @@ p{
   
   /*位置・配置*/
   position: sticky;　/*固定で*/
+}
+
+table{
+  background: #cdefff;
+}
+
+th{
+  background:#00e2cf;
 }
 
 pre {
