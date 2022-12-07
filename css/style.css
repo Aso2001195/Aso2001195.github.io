@@ -227,16 +227,15 @@ h6{
   border-right: solid #d0b458 !important;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
-   margin-top: 1em !important;
-  margin-bottom: 1em !important;
-  
-  /*位置・配置*/
-  position: sticky;　/*固定で*/
   
   /*コンテンツ外側の大きさ*/
-
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
+  
+  /*位置・配置*/
+  position: 'sticky';　/*固定で*/
 }
 
 pre {
