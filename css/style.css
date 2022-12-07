@@ -397,16 +397,15 @@ pre {
 }
 
 code{
-  display: inline-block;
-  padding: 0.1em 0.25em; /* 文字周りの余白 */
+  display: inline-block !important;
+  padding: 0.1em 0.25em !important; /* 文字周りの余白 */
   color: aquamarine; /* 文字色 */
-  background-color: #e7edf3; /* 背景色 */
-  border-radius: 3px; /* 角丸 */
-  border: solid 1px #d6dde4; /* 枠線 */
+  border-radius: 3px !important; /* 角丸 */
+  border: solid 1px #d6dde4 !important; /* 枠線 */
 }
 
 .err{
-  background-color: #e7edf3;
+  background-color: transparent;
 }
 
 .nv {
