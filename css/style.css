@@ -26,7 +26,7 @@ h1 {
   font-style: normal;
   font-weight: 400;
   font-size: 120px;
-  color: #d0b458; /*文字色*/
+  color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
@@ -43,14 +43,14 @@ h1 {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
-  /*位置・配置*/
-  position: sticky;　/*固定で*/
-  
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
+  
+  /*位置・配置*/
+  position: sticky;　/*固定で*/
 }
 
 h2 {
@@ -63,7 +63,7 @@ h2 {
   font-style: normal;
   font-weight: 400;
   font-size: 120px;
-  color: #d0b458; /*文字色*/
+  color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
@@ -81,8 +81,8 @@ h2 {
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
   
@@ -100,7 +100,7 @@ h3 {
   font-style: normal;
   font-weight: 400;
   font-size: 120px;
-  color: #d0b458; /*文字色*/
+  color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
@@ -118,12 +118,12 @@ h3 {
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
   
-    /*位置・配置*/
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -137,7 +137,7 @@ h4{
   font-style: normal;
   font-weight: 400;
   font-size: 120px;
-  color: #d0b458; /*文字色*/
+  color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
@@ -155,12 +155,12 @@ h4{
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
   
-   /*位置・配置*/
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
@@ -174,7 +174,7 @@ h5{
   font-style: normal;
   font-weight: 400;
   font-size: 120px;
-  color: #d0b458; /*文字色*/
+  color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
   line-height: 144px; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
@@ -192,12 +192,12 @@ h5{
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
   
   background: #421615; /*背景色*/
   
-    /*位置・配置*/
+  /*位置・配置*/
   position: sticky;　/*固定で*/
 }
 
