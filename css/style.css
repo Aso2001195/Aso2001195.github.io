@@ -24,11 +24,11 @@ h1 {
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400;
-  font-size: 120px;
+  font-weight: 400  !important;
+  font-size: 120px  !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
-  line-height: 144px; /*行高*/
+  line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
@@ -49,7 +49,8 @@ h1 {
   
   background: #421615; /*背景色*/
   
-  /*位置・配置*/
+  /*要素・位置・配置*/
+  display:inline-block;
   position: sticky;　/*固定で*/
 }
 
@@ -61,11 +62,11 @@ h2 {
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400;
-  font-size: 120px;
+  font-weight: 400  !important;
+  font-size: 120px  !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
-  line-height: 144px; /*行高*/
+  line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
@@ -86,7 +87,8 @@ h2 {
   
   background: #421615; /*背景色*/
   
-  /*位置・配置*/
+  /*要素・位置・配置*/
+  display:inline-block;
   position: sticky;　/*固定で*/
 }
 
@@ -98,11 +100,11 @@ h3 {
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400;
-  font-size: 120px;
+  font-weight: 400  !important;
+  font-size: 120px  !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
-  line-height: 144px; /*行高*/
+  line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
@@ -123,7 +125,8 @@ h3 {
   
   background: #421615; /*背景色*/
   
-  /*位置・配置*/
+  /*要素・位置・配置*/
+  display:inline-block;
   position: sticky;　/*固定で*/
 }
 
@@ -135,11 +138,11 @@ h4{
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400;
-  font-size: 120px;
+  font-weight: 400  !important;
+  font-size: 120px  !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
-  line-height: 144px; /*行高*/
+  line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
@@ -160,7 +163,8 @@ h4{
   
   background: #421615; /*背景色*/
   
-  /*位置・配置*/
+  /*要素・位置・配置*/
+  display:inline-block;
   position: sticky;　/*固定で*/
 }
 
@@ -172,11 +176,11 @@ h5{
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400;
-  font-size: 120px;
+  font-weight: 400  !important;
+  font-size: 120px  !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
-  line-height: 144px; /*行高*/
+  line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
@@ -197,7 +201,8 @@ h5{
   
   background: #421615; /*背景色*/
   
-  /*位置・配置*/
+  /*要素・位置・配置*/
+  display:inline-block;
   position: sticky;　/*固定で*/
 }
 
@@ -209,11 +214,11 @@ h6{
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400;
-  font-size: 120px;
+  font-weight: 400  !important;
+  font-size: 120px  !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
-  line-height: 144px; /*行高*/
+  line-height: 144px !important; /*行高*/
   letter-spacing: 0.26em; /*文字の間隔*/
   text-indent: 15px;/*字下げ*/
   text-decoration-line: line-through;/*文字列の線の設定*/
@@ -234,7 +239,8 @@ h6{
   
   background: #421615; /*背景色*/
   
-  /*位置・配置*/
+  /*要素・位置・配置*/
+  display:inline-block;
   position: sticky;　/*固定で*/
 }
 
