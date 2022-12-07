@@ -22,6 +22,7 @@ h1 {
   padding: 0.5em 0; /*上下の余白*/
   border-top: double 3px; /*上線*/
   border-color: #d0b458;
+  position: sticky;
 }
 
 h2 {
