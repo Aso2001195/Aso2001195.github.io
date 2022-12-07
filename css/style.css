@@ -38,15 +38,18 @@ h1 {
   
   /*枠線・要素*/
   border-top: solid 4px #d0b458 !important;
-  border-left: solid 4px #d0b458 !important;
-  border-bottom: solid 4px #d0b458 !important;
   border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
   margin-top: 1em !important;
+  margin-right: 1em !important;
   margin-bottom: 1em !important;
+  margin-left: 1em !important;
   
   background: #421615; /*背景色*/
   
@@ -56,13 +59,14 @@ h1 {
 
 h2 {
   /*文字枠の大きさ*/
+  min-width: fit-content;
   width: 418px;
-  height: 331px;
+  height: fit-content;
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400px !important;
+  font-weight: 400 !important;
   font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
@@ -74,17 +78,19 @@ h2 {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線・要素*/
-  display:inline-block;
-  border-top: solid #d0b458;
-  border-left: solid #d0b458;
-  border-bottom: solid #d0b458 !important;
-  border-right: solid #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;
+  border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
   margin-top: 1em !important;
+  margin-right: 1em !important;
   margin-bottom: 1em !important;
+  margin-left: 1em !important;
   
   background: #421615; /*背景色*/
   
@@ -94,13 +100,14 @@ h2 {
 
 h3 {
   /*文字枠の大きさ*/
+  min-width: fit-content;
   width: 418px;
-  height: 331px;
+  height: fit-content;
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400px !important;
+  font-weight: 400 !important;
   font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
@@ -112,17 +119,19 @@ h3 {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線・要素*/
-  display:inline-block;
-  border-top: solid #d0b458;
-  border-left: solid #d0b458;
-  border-bottom: solid #d0b458 !important;
-  border-right: solid #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;
+  border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
   margin-top: 1em !important;
+  margin-right: 1em !important;
   margin-bottom: 1em !important;
+  margin-left: 1em !important;
   
   background: #421615; /*背景色*/
   
@@ -132,13 +141,14 @@ h3 {
 
 h4{
   /*文字枠の大きさ*/
+  min-width: fit-content;
   width: 418px;
-  height: 331px;
+  height: fit-content;
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400px !important;
+  font-weight: 400 !important;
   font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
@@ -150,17 +160,19 @@ h4{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線・要素*/
-  display:inline-block;
-  border-top: solid #d0b458;
-  border-left: solid #d0b458;
-  border-bottom: solid #d0b458 !important;
-  border-right: solid #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;
+  border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
   margin-top: 1em !important;
+  margin-right: 1em !important;
   margin-bottom: 1em !important;
+  margin-left: 1em !important;
   
   background: #421615; /*背景色*/
   
@@ -170,13 +182,14 @@ h4{
 
 h5{
   /*文字枠の大きさ*/
+  min-width: fit-content;
   width: 418px;
-  height: 331px;
+  height: fit-content;
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400px !important;
+  font-weight: 400 !important;
   font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
@@ -188,17 +201,19 @@ h5{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線・要素*/
-  display:inline-block;
-  border-top: solid #d0b458;
-  border-left: solid #d0b458;
-  border-bottom: solid #d0b458 !important;
-  border-right: solid #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;
+  border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
   margin-top: 1em !important;
+  margin-right: 1em !important;
   margin-bottom: 1em !important;
+  margin-left: 1em !important;
   
   background: #421615; /*背景色*/
   
@@ -208,13 +223,14 @@ h5{
 
 h6{
   /*文字枠の大きさ*/
+  min-width: fit-content;
   width: 418px;
-  height: 331px;
+  height: fit-content;
   
   /*文字*/
   font-family: 'Itim';
   font-style: normal;
-  font-weight: 400px !important;
+  font-weight: 400 !important;
   font-size: 120px !important;
   color: #d0b458 !important; /*文字色*/
   padding: 60px 10px; /*文字周りの余白*/
@@ -226,17 +242,19 @@ h6{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /*文字の影*/
   
   /*枠線・要素*/
-  display:inline-block;
-  border-top: solid #d0b458;
-  border-left: solid #d0b458;
-  border-bottom: solid #d0b458 !important;
-  border-right: solid #d0b458 !important;
+  border-top: solid 4px #d0b458 !important;
+  border-right: solid 4px #d0b458 !important;
+  border-bottom: solid 4px #d0b458 !important;
+  border-left: solid 4px #d0b458 !important;
+  
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 80px 7px 10px 90px;
   
   /*コンテンツ外側の大きさ*/
   margin-top: 1em !important;
+  margin-right: 1em !important;
   margin-bottom: 1em !important;
+  margin-left: 1em !important;
   
   background: #421615; /*背景色*/
   
