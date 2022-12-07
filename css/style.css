@@ -18,8 +18,9 @@ a:focus {
 
 h1 {
   /*文字枠の大きさ*/
+  min-width: fit-content;
   width: 418px;
-  height: 331px;
+  height: fit-content;
   
   /*文字*/
   font-family: 'Itim';
