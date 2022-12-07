@@ -405,6 +405,10 @@ code{
   border: solid 1px #d6dde4; /* 枠線 */
 }
 
+.err{
+  background-color: #e7edf3;
+}
+
 .nv {
   color: #27bdbd !important;
 }
