@@ -38,6 +38,8 @@ import java.util.Optional;
 
 @RequestMapping("/Pokemon")
 private static String function(Integr x){
+    int num[];
+    num[0]=1;
     Optional<User> user=service.passwordCheck(form.getEmail());
     System.out.println('コードブロック');
     return x;
