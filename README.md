@@ -50,9 +50,9 @@ private static String function(Integr x){
     
     if (i % 2 == 0) { continue; }
     
-    nimal a = new Animal("トクジロウ", "ネズミ");
+    Animal a = new Animal("トクジロウ", "ネズミ");
     Optional<User> user=service.passwordCheck(form.getEmail());
-    System.out.println('');
+    System.out.println('c');
     return x;
 }
 ```
