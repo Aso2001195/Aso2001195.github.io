@@ -42,6 +42,7 @@ import java.util.Optional;
 private static String function(Integr x){
     int num[];
     num[0]=1;
+    boolean t=true;
     for(int i=0;i<10;i++){
     
     }
