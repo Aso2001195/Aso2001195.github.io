@@ -402,7 +402,7 @@ code{
   color: aquamarine; /* 文字色 */
 }
 
-/*
+/*github API
 .err{
   background-color: darkgray !important;
   color: red !important;
@@ -441,6 +441,56 @@ code{
   color: rgb(222, 153, 84) !important;
 }
 */
+
+/* mavonEditor 
+  div.hljs{
+    background-color: black !important;
+    color: white !important;
+  } /*コードブロック全体*/
+  
+ span.hljs-keyword{
+  color: dodgerblue !important;
+ }
+  
+  span.hljs-comment{
+    color: olivedrab !important;
+  }
+ 
+  span.hljs-meta{
+    color: mediumseagreen !important;
+  }
+  
+  span.hljs-title.function_{
+    color: palegoldenrod !important;
+  }
+  
+  span.hljs-params{
+    color: dodgerblue !important;
+  }
+
+  span.hljs-type{
+    color: mediumseagreen !important;
+  }
+
+  span.hljs-number{
+    color: darkkhaki !important;
+  }
+
+  span.hljs-variable{
+    color: aqua !important;
+  }
+
+  span.hljs-string{
+    color: chocolate !important;
+  }
+
+  span.hljs-literal{
+    color: dodgerblue !important;
+  }
+  
+  
+*/
+
 
 /* 
 
