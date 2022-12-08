@@ -34,12 +34,23 @@ Ol 番号付きリスト
 
 
 ```java
+package package;
 import java.util.Optional;
 
+//コメント
 @RequestMapping("/Pokemon")
 private static String function(Integr x){
     int num[];
     num[0]=1;
+    for(int i=0;i<10;i++){
+    
+    }
+    long l = 50;
+    int i = (int)l; /*型のキャスト*/
+    
+    if (i % 2 == 0) { continue; }
+    
+    nimal a = new Animal("トクジロウ", "ネズミ");
     Optional<User> user=service.passwordCheck(form.getEmail());
     System.out.println('コードブロック');
     return x;
