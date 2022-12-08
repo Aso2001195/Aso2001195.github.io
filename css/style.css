@@ -407,6 +407,18 @@ code{
   background-color: darkgray !important;
 }
 
+.k {
+  color: pink !important;
+}
+
+.cm{
+  color: green !important;
+}
+
+.kd{
+  color: orange !important;
+}
+
 /*
 .nv {
   color: #27bdbd !important;
@@ -418,10 +430,6 @@ code{
 
 .c1 {
   color: rgb(36, 166, 36) !important;
-}
-
-.k {
-  color: mediumorchid !important;
 }
 
 .s1,
