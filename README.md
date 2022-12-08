@@ -48,7 +48,7 @@ private static String function(Integr x){
     }
     long l = 50;
     int i = (int)l; /*型のキャスト*/
-    
+    i=null;
     if (i % 2 == 0) { continue; }
     
     Animal a = new Animal("トクジロウ", "ネズミ");
