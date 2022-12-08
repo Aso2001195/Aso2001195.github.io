@@ -402,9 +402,10 @@ code{
   color: aquamarine; /* 文字色 */
 }
 
-
+/*
 .err{
   background-color: darkgray !important;
+  color: red !important;
 }
 
 .k {
@@ -423,7 +424,6 @@ code{
   color: orange !important;
 }
 
-/*
 .nv {
   color: #27bdbd !important;
 }
