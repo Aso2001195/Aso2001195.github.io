@@ -52,7 +52,7 @@ private static String function(Integr x){
     
     nimal a = new Animal("トクジロウ", "ネズミ");
     Optional<User> user=service.passwordCheck(form.getEmail());
-    System.out.println('コードブロック');
+    System.out.println('');
     return x;
 }
 ```
